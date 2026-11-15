@@ -1,0 +1,120 @@
+{
+  "site": {
+    "logo": "",
+    "name": "STREAM NETWORK",
+    "tagline": "All our sites. One network.",
+    "welcome": "Welcome to STREAM NETWORK"
+  },
+  "dots": {
+    "words": "Welcome\n{name}",
+    "hold": "4",
+    "style": "drift",
+    "speed": "1",
+    "lines": true
+  },
+  "about": {
+    "title": "About STREAM NETWORK",
+    "intro": "",
+    "image": "",
+    "body": "",
+    "points": "",
+    "glance": true
+  },
+  "pages": {
+    "about": true,
+    "team": true,
+    "contact": true
+  },
+  "theme": {
+    "bg": "#000000",
+    "text": "#ffffff",
+    "accent": "#ffffff",
+    "island": "#0c0c0c",
+    "header": "#000000",
+    "bgImage": "",
+    "dim": "55"
+  },
+  "footer": {
+    "text": "Built with care by the STREAM NETWORK team.",
+    "align": "left",
+    "year": true
+  },
+  "flinks": [],
+  "owner": {
+    "name": "Site Owner",
+    "role": "Founder & Owner",
+    "photo": "",
+    "bio": "",
+    "about": "",
+    "details": "",
+    "skills": "",
+    "show": true
+  },
+  "contact": [
+    {
+      "label": "Email",
+      "value": "hello@example.com",
+      "url": ""
+    }
+  ],
+  "sites": [
+    {
+      "id": "s1",
+      "name": "STREAM",
+      "category": "Live streaming",
+      "desc": "Our live streaming site.",
+      "cover": "",
+      "icon": "",
+      "about": "",
+      "shots": [],
+      "features": "",
+      "details": "",
+      "btn": "Visit site",
+      "url": "https://example.com"
+    }
+  ],
+  "creators": [
+    {
+      "id": "c0",
+      "name": "Main Developer",
+      "role": "Lead developer",
+      "site": "",
+      "photo": "",
+      "bio": "",
+      "about": "",
+      "details": "",
+      "skills": "",
+      "main": true
+    }
+  ],
+  "notifs": [
+    {
+      "id": "n1",
+      "title": "Welcome",
+      "body": "STREAM NETWORK is live."
+    }
+  ],
+  "dotitems": [
+    {
+      "type": "text",
+      "text": "Welcome",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "{name}",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "HI how are you?",
+      "image": "",
+      "mode": "light",
+      "color": false
+    }
+  ]
+}
