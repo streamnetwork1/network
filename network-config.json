@@ -122,6 +122,13 @@
       "image": "",
       "mode": "light",
       "color": false
+    },
+    {
+      "type": "text",
+      "text": "STREAM MOVIE",
+      "image": "",
+      "mode": "light",
+      "color": false
     }
   ]
 }
