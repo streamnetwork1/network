@@ -8,7 +8,7 @@
   "dots": {
     "words": "Welcome\n{name}",
     "hold": "4",
-    "style": "drift",
+    "style": "pulse",
     "speed": "1",
     "lines": true
   },
