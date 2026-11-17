@@ -171,6 +171,27 @@
       "image": "",
       "mode": "light",
       "color": false
+    },
+    {
+      "type": "text",
+      "text": "STREAM",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "STREAM LIVE",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "FTP",
+      "image": "",
+      "mode": "light",
+      "color": false
     }
   ]
 }
