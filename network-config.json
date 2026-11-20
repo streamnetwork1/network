@@ -18,7 +18,7 @@
     "image": "",
     "body": "",
     "points": "",
-    "glance": true
+    "glance": false
   },
   "pages": {
     "about": true,
@@ -41,7 +41,7 @@
   },
   "flinks": [],
   "owner": {
-    "name": "Site Owner",
+    "name": "SADEW YAPA",
     "role": "Founder & Owner",
     "photo": "",
     "bio": "",
@@ -118,7 +118,7 @@
   "creators": [
     {
       "id": "c0",
-      "name": "Main Developer",
+      "name": "SADEW YAPA",
       "role": "Lead developer",
       "site": "",
       "photo": "",
@@ -189,6 +189,62 @@
     {
       "type": "text",
       "text": "FTP",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "SUBTITLE MERGER",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "ONLINE CARROM",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "RESERCH AI",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "LIVE STREAM",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "STREAM STUDIO",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "ROOM CALL",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "CONVERTOR",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "ADVERTISMENT",
       "image": "",
       "mode": "light",
       "color": false
