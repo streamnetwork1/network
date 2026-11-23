@@ -55,6 +55,11 @@
       "label": "Email",
       "value": "hello@example.com",
       "url": ""
+    },
+    {
+      "label": "",
+      "value": "",
+      "url": ""
     }
   ],
   "sites": [
@@ -244,8 +249,8 @@
   "notifs": [
     {
       "id": "n1",
-      "title": "Welcome",
-      "body": "STREAM NETWORK is live."
+      "title": "Welcome to STREAM NETWORK",
+      "body": "Now you in STREAM NETWORK sites. You can select any sites in our network."
     }
   ],
   "dotitems": [
