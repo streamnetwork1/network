@@ -23,7 +23,7 @@
   "pages": {
     "about": true,
     "team": false,
-    "contact": true
+    "contact": false
   },
   "theme": {
     "bg": "#000000",
