@@ -22,7 +22,7 @@
   },
   "pages": {
     "about": true,
-    "team": true,
+    "team": false,
     "contact": true
   },
   "theme": {
